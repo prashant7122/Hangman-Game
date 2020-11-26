@@ -1,0 +1,42 @@
+body {
+  display: flex;
+  flex-direction: column;
+  background: rgb(212, 212, 228);
+}
+button {
+  color: rgb(65, 64, 161);
+  font-weight: bolder;
+  font-size: 30px;
+  margin: 5px;
+  font-family: sans-serif;
+  background-color: rgba(149, 145, 204, 0.795);
+  border-radius: 10px;
+  height: 50px;
+  width: 70px;
+}
+h4 {
+  margin-left: 40px;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20vh;
+  font-size: 84px;
+  font-style: italic;
+  font-family: sans-serif;
+  background-color: rgba(23, 21, 100, 0.459);
+  margin-bottom: 20px;
+}
+.game-box {
+  display: flex;
+}
+.click-part {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  max-width: 100%;
+}

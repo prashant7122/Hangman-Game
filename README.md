@@ -1,2 +1,2 @@
-# Hangman-Game
+# Hang_man
 Created with CodeSandbox
